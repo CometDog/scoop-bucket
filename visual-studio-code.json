@@ -7,7 +7,7 @@
     "hash": "E93B72BAEDF6FC1234E1DA751B03D67631E150F4D93573DB83C9F205B632E0BD",
     "installer": {
     	"args":	[
-	    "/SP",
+	    "/SP-",
 	    "/SILENT",
 	    "/DIR=$dir"
 	]
