@@ -1,0 +1,14 @@
+{
+    "homepage": "https://bitwarden.com/",
+    "description": "The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.",
+    "license": "https://github.com/bitwarden/desktop/blob/master/LICENSE.txt",
+    "version": "1.2.0",
+    "url": "https://github.com/bitwarden/desktop/releases/download/v1.2.0/Bitwarden-Installer-1.2.0.exe",
+    "hash": "66999F89B2287EBB6B73416BEC3E2EE80182F08618B03E3F2CC4CFCD823A5693",
+    "extract_dir": "Files/Bitwarden",
+    "bin": "Bitwarden-Installer-1.2.0",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://vault.bitwarden.com/download/?app=desktop&platform=windows"
+    }
+}
