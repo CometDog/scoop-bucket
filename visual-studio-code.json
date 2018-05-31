@@ -8,6 +8,6 @@
     "installer": {
     	"args":	[
 	    "/DIR=$dir"
+	]
     }
-
 }
