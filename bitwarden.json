@@ -5,5 +5,5 @@
     "version": "1.2.0",
     "url": "https://github.com/bitwarden/desktop/releases/download/v1.2.0/Bitwarden-Installer-1.2.0.exe",
     "hash": "66999F89B2287EBB6B73416BEC3E2EE80182F08618B03E3F2CC4CFCD823A5693",
-    "bin": "Bitwarden-Installer-1.2.0.exe",
+    "innosetup": true
 }
