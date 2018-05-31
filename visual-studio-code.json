@@ -4,10 +4,6 @@
     "license": "https://github.com/Microsoft/vscode/blob/master/LICENSE.txt",
     "version": "1.23.1",
     "url": "https://github.com/Microsoft/vscode/archive/1.23.1.zip",
-    "hash": "0E8A52D1CD19620ACE8F0654CAC253C55AA4CA23A241E70AD5F0E50B50331C26",
-    "extract_dir": "vscode-1.23.1",
-    "checkver": "github",
-    "autoupdate": {
-        "url": "https://go.microsoft.com/fwlink/?Linkid=850641"
-    }
+    "hash": "F20E9D5BC9AE68F3CC74BFB8EF31CA3211936C085FB286824BE1C1839A00C6F4",
+    "extract_dir": "vscode-1.23.1"
 }
